@@ -17,4 +17,4 @@ The public proposal process is being prepared.
 | [20](HSPs/HSP-20.md)     | HAVAH Token Standard               | KyoungNam Kim | Standard Track |
 | [721](HSPs/HSP-721.md)   | HAVAH Non-Fungible Token Standard  | KyoungNam Kim | Standard Track |
 | [1155](HSPs/HSP-1155.md) | HAVAH Multi Token Standard         | KyoungNam Kim | Standard Track |
-
+| [1363](HSPs/HSP-1363.md) | HAVAH Payable Token Standard       | KyoungNam Kim | Standard Track |
